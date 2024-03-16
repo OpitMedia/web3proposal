@@ -1,0 +1,67 @@
+{
+  "name": "web3proposal",
+  "version": "1.1.2",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@itslana0x/deblockproperty": "^1.1.6",
+    "@itslana0x/l2halving": "^1.1.7",
+    "@itslana0x/uniquelayer2": "^1.1.6",
+    "@itslanaa/initrugged": "^1.1.5",
+    "@itslanaa/nodetodo-app": "^1.1.5",
+    "@itslanaa/web3blockql": "^1.1.5",
+    "blastrevokes": "^1.1.2",
+    "btctrends-now": "^1.1.4",
+    "coingeckoscrapper": "^1.1.4",
+    "core-js": "^3.8.3",
+    "ethtrends-now": "^1.1.2",
+    "flaggedcontract": "^1.1.2",
+    "minds-app": "^1.1.2",
+    "treeneutrion": "^1.1.2",
+    "vue": "^3.2.13"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ],
+  "description": "This project was bootstrapped with [Vue3 App](https://github.com/vuejs/create-vue).",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opitmedia/web3proposal"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opitmedia/web3proposal/issues"
+  },
+  "homepage": "https://github.com/opitmedia/web3proposal#readme"
+}
